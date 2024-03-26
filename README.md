@@ -1,4 +1,4 @@
-# Tilted Tutorial Sessions
+# Tiled Tutorial Sessions
 
 ## This Week
 
